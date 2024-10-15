@@ -18,11 +18,11 @@
 ```sh
 npm install
 ```
-3.1 Run project locally
+3.1. Run project locally
 ```sh
 npm run dev
 ```
-3.2 Build project and run 
+3.2. Build project and run 
 ```sh
 npm run build
 npm run start
